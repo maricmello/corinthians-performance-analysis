@@ -2,7 +2,7 @@
 
 ## Description
 
-This project analyzes matches played by the Corinthians football team using match data to explore statistics such as goals scored, game locations (home/away), and other relevant performance metrics. The goal is to clean, transform, and analyze the data to generate insights about the team’s performance.
+This project analyzes matches played by the Corinthians football team using match data to explore statistics such as goals scored, game locations (home/away), and other relevant performance metrics. The goal is to clean, transform, and analyze the data to generate insights about the team’s performance. This project was carried out for the discipline Produção de Textos Acadêmicos at FATEC de Jundiaí.
 
 ---
 
